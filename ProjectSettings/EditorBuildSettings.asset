@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 569c38163cc774d089b02670f204874d
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: becd9083923cd4163b01487e1645eb77
+  - enabled: 1
+    path: Assets/Scenes/new map 1.unity
+    guid: 350cc4c1dc78e48f8acbcd2ecce68a44
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: c14f9d3321af5e34e98149067abc1586
+  - enabled: 1
+    path: Assets/Scenes/Overview.unity
+    guid: f8ab766d19ddca6448626f897d52e87f
+  - enabled: 1
+    path: Assets/Scenes/Fuel.unity
+    guid: 4341efedc4c9deb45af6e5b885551970
+  - enabled: 1
+    path: Assets/Scenes/FoodDelivery.unity
+    guid: 8f266a259c4927c458e9d1c3e810848d
+  - enabled: 1
+    path: Assets/Scenes/Boosts.unity
+    guid: 1d66cf6154d579e48a90379382100477
+  m_configObjects: {}

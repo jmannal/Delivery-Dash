@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 830d042d9618e7b4c80ffd71d26be787
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BoostButtonNull: {instanceID: 0}
+  - BoostButtonSpeed: {instanceID: 0}
+  - BoostButtonHeater: {instanceID: 0}
+  - BoostButtonTong: {instanceID: 0}
+  - BoostButtonFuel: {instanceID: 0}
+  - pickUp: {instanceID: 0}
+  - boostUse: {instanceID: 0}
+  - fueluse: {instanceID: 0}
+  - fireuse: {instanceID: 0}
+  - tongsUse: {instanceID: 0}
+  - collisionParticles: {fileID: 1109628659292044998, guid: fdc9977cc1a3246aba54b30d81bedd1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
